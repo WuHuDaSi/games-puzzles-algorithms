@@ -16,8 +16,9 @@ import numpy as np
 * Delete the names and ccids below, and put
 # the names and ccids of all members of your group, including you. 
 # name                         ccid
-Daniel Levy                   danlevy
-Sarah Levy                    sarlevy
+Zhaoyu Li                     zhaoyu
+Cheng Yao                     cyao1
+Jiachen Xu                    jiachen2
 
 #############################################
 # Your answer to question 1-a:
